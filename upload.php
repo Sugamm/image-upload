@@ -1,4 +1,10 @@
- <?php  
+ <?php
+ /*
+  Author : Sugam Malviya
+  Author Url : https://github.com/Sugamm/
+  Project Url : https://github.com/Sugamm/image-upload
+
+ */  
  if(isset($_FILES["image_upload"]["name"]))  
  {  
       $name = $_FILES["image_upload"]["name"];  

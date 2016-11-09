@@ -1,8 +1,14 @@
+<!-- 
+  Author : Sugam Malviya
+  Author Url : https://github.com/Sugamm/
+  Project Url : https://github.com/Sugamm/image-upload
+ --> 
+ <!DOCTYPE HTML>
  <html>  
   <head> 
+      <title>Upload Image without Page Refresh Tutorial</title> 
       <meta charset="utf-8">  
       <meta name="viewport" content="initial-scale=1.0, user-scalable=no"> 
-      <title>Upload Image without Page Refresh Tutorial</title> 
       <link rel="stylesheet" type="text/css" href="style.css"> 
       <!-- For Jquery Support -->
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
