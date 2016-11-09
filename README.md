@@ -14,10 +14,10 @@ Upload and resize images using PHP, AJAX, JQUERY.
    
 #Screenshot
 
-1.
+1. index.php
 ![alt tag](https://github.com/Sugamm/image-upload/blob/master/image/s1.png)
 
-2.
+2. index.php when image upload
 ![!alt tag](https://github.com/Sugamm/image-upload/blob/master/image/s2.png)
 
 
